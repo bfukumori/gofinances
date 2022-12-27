@@ -19,3 +19,6 @@ web-build/
 
 # Env
 .env
+
+# EAS
+eas.json

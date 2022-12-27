@@ -20,13 +20,16 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#5636D3"
-      }
+      "icon": "./assets/icon.png",
+      "package": "com.bfukumori.gofinances"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a40fbf0-b1d3-4298-8795-bc68a63703b0"
+      }
     }
   }
 }
